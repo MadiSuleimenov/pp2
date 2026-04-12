@@ -6,7 +6,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 700, 400
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("🎵 Music Player")
+pygame.display.set_caption("Music Player")
 
 clock = pygame.time.Clock()
 font_big = pygame.font.SysFont("arial", 36)
