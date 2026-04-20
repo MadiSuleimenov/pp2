@@ -119,6 +119,7 @@ def update_snake():
 
 
 # GAME LOOP
+while True:
     clock.tick(speed)
 
     if not game_over:
