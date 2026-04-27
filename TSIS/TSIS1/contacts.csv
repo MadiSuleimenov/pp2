@@ -1,0 +1,8 @@
+name,phone,phone_type,email,birthday,group
+Alice Smith,+77011234567,mobile,alice@gmail.com,1990-05-14,Friend
+Bob Johnson,+77022345678,work,bob@company.com,1985-11-30,Work
+Bob Johnson,+77029876543,home,,
+Carol White,+77033456789,home,carol@yahoo.com,1993-07-22,Family
+David Lee,+77044567890,mobile,david@gmail.com,,Work
+Eve Brown,+77055678901,mobile,eve@gmail.com,2000-01-01,Friend
+Frank Green,+77066789012,home,frank@mail.ru,1978-03-15,Other

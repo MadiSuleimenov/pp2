@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Carol White",
+    "email": "carol@yahoo.com",
+    "birthday": "1993-07-22",
+    "group_name": "Family"
+  },
+  {
+    "name": "David Lee",
+    "email": "david@gmail.com",
+    "birthday": null,
+    "group_name": "Work"
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob@company.com",
+    "birthday": "1985-11-30",
+    "group_name": "Work"
+  },
+  {
+    "name": "Eve Brown",
+    "email": "eve@gmail.com",
+    "birthday": "2000-01-01",
+    "group_name": "Friend"
+  },
+  {
+    "name": "Alice Smith",
+    "email": "alice@gmail.com",
+    "birthday": "1990-05-14",
+    "group_name": "Friend"
+  },
+  {
+    "name": "Ernar",
+    "email": "ernar@gmail.com",
+    "birthday": "2008-09-21",
+    "group_name": "Other"
+  },
+  {
+    "name": "Frank Green",
+    "email": "frank@mail.ru",
+    "birthday": "1978-03-15",
+    "group_name": "Other"
+  }
+]
